@@ -1,4 +1,4 @@
 # First
 My first website
-# My Favorite Class
-[title](rbr.jpg)
+## My Favorite Class
+![rally car](rbr.jpg)
